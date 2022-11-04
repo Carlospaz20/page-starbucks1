@@ -1,0 +1,17 @@
+.gallery {
+	background-color: #006241;
+	padding: 2em 0;
+}
+
+.gallery__container-img {
+	display: flex;
+	flex-direction: column;
+	width: 90%;
+    padding: 0 0 1.5em;
+	margin: 0 auto;
+	
+}
+
+.gallery__img {
+	margin-top: 1.5em;
+}
